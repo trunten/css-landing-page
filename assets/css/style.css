@@ -35,6 +35,11 @@
     text-decoration: none;
     color: #FDF8F5;
   }
+
+  a:hover {
+    text-decoration: underline;
+    color: yellow;
+  }
   
   header,
   footer {
