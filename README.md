@@ -2,7 +2,7 @@
 
 ## Description
 
-This Landing Page was created to fullfill the requirements of a new client to collect a site visitor's contact information
+This [Landing Page](https://trunten.github.io/css-landing-page/) was created to fullfill the requirements of a new client to collect a site visitor's contact information
 
 ## Installation
 
